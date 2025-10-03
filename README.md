@@ -21,24 +21,15 @@ This organization hosts repositories that cover the entire stack of humanoid dev
 
 ## 🛠️ Tech Stack  
 - **ROS 2** (Robot Operating System)  
-- **C++ & Python** for core development  
-- **Gazebo / Isaac Sim** for simulation  
-- **TensorFlow / PyTorch** for AI/ML integration  
+- **C++ & Python** for core development
+- **IsaacLab & IsaacGym** for robot training  
+- **Isaac Sim, Gazebo & MuJoCo** for simulation  
+- **PyTorch** for AI/ML integration  
 - **Custom Hardware & Sensors** for actuation and perception  
-
-## 🤝 How to Contribute  
-We welcome collaborators, researchers, and enthusiasts who share our passion for robotics.  
-- Fork and open a PR on repositories you’re interested in.  
-- Check our [Issues](./issues) and [Discussions](./discussions) for active topics.  
-- Join the conversation and help shape the future of humanoids from India.  
-
-## 📜 License  
-Most projects here are open-source under the **MIT License**, unless stated otherwise.  
 
 ## 📢 Stay Connected  
 - 🌐 Website: [Coming Soon]  
-- 💬 Community Forum: [Coming Soon]  
-- 📧 Contact: hello@manav.co  
+- 📧 Contact: founders@manav.co 
 
 ---
 
